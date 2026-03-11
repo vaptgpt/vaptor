@@ -37,18 +37,18 @@ Natural-language remediation guidance
 Risk narrative generation for executive and technical report sections
 
 ** Modules in Development
-VAPTORSCOUT > Discovery
-VAPTORAPI > Intelligence
-VAPTORRECON > Vulnerability Assessment
-VAPTORWEB > Web Scanner
-VAPTORSQL > SQL Verification
-VAPTORMSF > Exploit Verification
-VAPTORFW > Firewall / IDS
-VAPTORSHARK > Network Sniffer
-VAPTORAI > AI Enhancement
-VAPTORCLOUD > Container Security
-VAPTORSAST > Static Application Security Testing
-VAPTORDAST > Dynamic Application Security Testing
-VAPTORAPP > Mobile Application Security Testing
-VAPTORWIFI > WIFI Security Assessment
-VAPTORAUDIT > Log & Event File Analysis
+* VAPTORSCOUT > Discovery
+* VAPTORAPI > Intelligence
+* VAPTORRECON > Vulnerability Assessment
+* VAPTORWEB > Web Scanner
+* VAPTORSQL > SQL Verification
+* VAPTORMSF > Exploit Verification
+* VAPTORFW > Firewall / IDS
+* VAPTORSHARK > Network Sniffer
+* VAPTORAI > AI Enhancement
+* VAPTORCLOUD > Container Security
+* VAPTORSAST > Static Application Security Testing
+* VAPTORDAST > Dynamic Application Security Testing
+* VAPTORAPP > Mobile Application Security Testing
+* VAPTORWIFI > WIFI Security Assessment
+* VAPTORAUDIT > Log & Event File Analysis
