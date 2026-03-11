@@ -6,22 +6,23 @@ VAPTOR is developed in alignment with ETSI EN 304 223, the European standard for
 
 ** Vulnerability Coverage
 VAPTOR provides layered, redundant coverage across the full vulnerability surface of a target network.
-** Network Layer
+
+- Network Layer
 * TCP/UDP port scanning across all 65 535 ports
 * Service and version fingerprinting
 * OS detection and banner grabbing
 * Firewall rule enumeration and bypass probing
-** Web Application Layer
+- Web Application Layer
 * OWASP Top 10 coverage via active and passive scan rules
 * Passive scan during spidering for logic flaws and information leakage
 * SQL injection — detection and exploitation verification
 * Authentication weakness testing (default credentials, auth bypass)
-** API endpoint enumeration and abuse testing
+- API endpoint enumeration and abuse testing
 * Exploit Verification
 * Safe, controlled exploit confirmation against discovered vulnerabilities
 * CVE-to-exploit mapping via NVD API correlation
 * Authentication verification for credential-based exploits
-** Intelligence & Enrichment
+*** Intelligence & Enrichment
 * CVE lookup and severity scoring (NVD API, GitHub Advisory DB)
 * Threat intelligence enrichment via IP/hash reputation lookups
 * WAF fingerprinting and virtual-host discovery
