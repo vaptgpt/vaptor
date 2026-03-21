@@ -55,6 +55,7 @@ VAPTOR provides layered, redundant coverage across the full vulnerability surfac
 * VAPTORCLOUD > Container Security
 * VAPTORSAST > Static Application Security Testing
 * VAPTORDAST > Dynamic Application Security Testing
-* VAPTORAPP > Mobile Application Security Testing
+* VAPTORMAST > Mobile Application Security Testing
 * VAPTORWIFI > WIFI Security Assessment
 * VAPTORAUDIT > Log & Event File Analysis
+* VAPTORVPN > VPN Client
