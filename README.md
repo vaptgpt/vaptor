@@ -59,3 +59,5 @@ VAPTOR provides layered, redundant coverage across the full vulnerability surfac
 * VAPTORWIFI > WIFI Security Assessment
 * VAPTORAUDIT > Log & Event File Analysis
 * VAPTORVPN > VPN Client
+
+https://vaptgpt.com
